@@ -1,0 +1,7 @@
+{
+    "name": "divimonolog/divctoadminmonolog",
+    "description": "Demo-package to setup backend",
+    "type": "composer-plugin",
+    "minimum-stability": "dev",
+    "require": {}
+}
