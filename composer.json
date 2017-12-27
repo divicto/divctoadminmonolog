@@ -1,7 +1,13 @@
 {
     "name": "divimonolog/divctoadminmonolog",
     "description": "Demo-package to setup backend",
-    "type": "composer-plugin",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Divicto",
+            "email": "laratest@mailinator.com"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {}
 }
